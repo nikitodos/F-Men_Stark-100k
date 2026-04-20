@@ -1,12 +1,15 @@
 # STARK-100k – Solid Rocket Motor Design & Analysis Suite
 
-<img src="Logo_Project.png" alt="Project Logo" width="250"/>
-  
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2025b%2B-blue.svg)](https://www.mathworks.com/products/matlab.html)
+
+<p align="center">
+<img src="Logo_Project.png" alt="Project Logo" width="250"/>
 
 **Politecnico di Milano – Space Propulsion A.Y. 2025/26**  
 *Team F-Men: Days of Future Blast*  
 D’Aloisio · Gattone · Pacheco · Rossi · Tempesta
+
+</p>
 
 ---
 
@@ -119,14 +122,11 @@ Typical execution time is 1–2 minutes (depending on Monte Carlo settings).
 
 ## References (key sources)
 
-1. **NASA SP‑8039** (1971) – gas emissivity correlations  
+6. **Sutton & Biblarz (2016)** – onset of nucleate boiling (ONB) criterion  
 2. **Bartz (1957)** – convective heat transfer in rocket nozzles  
 3. **Churchill & Chu (1975)** – natural convection from horizontal cylinders  
 4. **ASME B31.3** – process piping (wall thickness, allowable stresses)  
 5. **Moss & Basic (2013)** – pressure vessel design manual  
-6. **Sutton & Biblarz (2016)** – onset of nucleate boiling (ONB) criterion  
-7. **Wylie & Streeter (1993)** – water hammer (Joukowsky‑Korteweg)  
-8. **Morelli et al. (2025)** – YSZ APS TBC thermal conductivity  
 
 ---
 
@@ -145,7 +145,7 @@ This repository and all associated content, including but not limited to text, f
 - Simone Rossi  
 - Tommaso Elia Tempesta  
 
-For any questions or suggestions, please open an issue or contact the team via the course instructors.
+For any questions or suggestions, please open an issue or contact the Team.
 
 ---
 
