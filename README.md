@@ -1,6 +1,7 @@
+
 # STARK-100k – Solid Rocket Motor Design & Analysis Suite
 
-[![MATLAB](https://img.shields.io/badge/MATLAB-R2025b%2B-blue.svg)](https://www.mathworks.com/products/matlab.html)
+[![MATLAB](https://img.shields.io/badge/MATLAB-R2023b%2B-blue.svg)](https://www.mathworks.com/products/matlab.html)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **Politecnico di Milano – Space Propulsion A.Y. 2025/26**  
@@ -35,31 +36,31 @@ All analyses are integrated into a single main script (`main.m`) that produces *
 
 ## Repository structure
 
+```
 STARK-100k-SRM/
-├── main.m # top‑level script (run this)
-├── Firing.m # quasi‑steady 0‑D transient simulation
-├── Nozzle_Transient_Heatmap.m # transient thermal analysis (nozzle)
-├── SolidUnitDesign.m # parametric design loop
-├── solve_geometry_fzero2.m # BATES grain geometry solver
-├── mach_from_area.m # area‑Mach bisection solver
-├── bartz_curv.m # Bartz HTC with curvature correction
-├── sigma_bartz.m # Bartz sigma correction factor
-├── refine_cooling_support.m # refined pressure cascade, tank sizing, mass roll‑up
-├── feed_line_design.m # pipe diameter, wall thickness, water hammer (ASME B31.3)
-├── darcy_friction.m # Darcy‑Weisbach friction (laminar/Colebrook)
-├── thermal_chain.m # (not used in final version – legacy)
-├── render_engine_section_2D.m # 2D axisymmetric cross‑section plot
-├── uncertainty.m # linear‑regression uncertainty for a and n
-├── run_MC.m # helper for Monte Carlo calibration
-├── ternary_str.m # inline conditional strings
-├── P_sat_water.m # Antoine equation for water vapour pressure
-├── density_water.m # water density (polynomial)
-├── viscosity_water.m # water dynamic viscosity
-├── conductivity_water.m # water thermal conductivity
-├── cp_water.m # water specific heat
-└── README.md # this file
-
-text
+├── main.m                         # top‑level script (run this)
+├── Firing.m                       # quasi‑steady 0‑D transient simulation
+├── Nozzle_Transient_Heatmap.m     # transient thermal analysis (nozzle)
+├── SolidUnitDesign.m              # parametric design loop
+├── solve_geometry_fzero2.m        # BATES grain geometry solver
+├── mach_from_area.m               # area‑Mach bisection solver
+├── bartz_curv.m                   # Bartz HTC with curvature correction
+├── sigma_bartz.m                  # Bartz sigma correction factor
+├── refine_cooling_support.m       # refined pressure cascade, tank sizing, mass roll‑up
+├── feed_line_design.m             # pipe diameter, wall thickness, water hammer (ASME B31.3)
+├── darcy_friction.m               # Darcy‑Weisbach friction (laminar/Colebrook)
+├── thermal_chain.m                # (not used in final version – legacy)
+├── render_engine_section_2D.m     # 2D axisymmetric cross‑section plot
+├── uncertainty.m                  # linear‑regression uncertainty for a and n
+├── run_MC.m                       # helper for Monte Carlo calibration
+├── ternary_str.m                  # inline conditional strings
+├── P_sat_water.m                  # Antoine equation for water vapour pressure
+├── density_water.m                # water density (polynomial)
+├── viscosity_water.m              # water dynamic viscosity
+├── conductivity_water.m           # water thermal conductivity
+├── cp_water.m                     # water specific heat
+└── README.md                      # this file
+```
 
 ---
 
