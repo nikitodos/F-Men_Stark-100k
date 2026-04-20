@@ -3,7 +3,8 @@
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2025b%2B-blue.svg)](https://www.mathworks.com/products/matlab.html)
 
 <p align="center">
-<img src="Logo_Project.png" alt="Project Logo" width="250"/>
+<img src="Logo_Project.png" alt="Project Logo" height="250"/>
+<img src="Stark-100k_FINAL_PLOT.png" alt="Stark-100k Plot" height="250"/>
 </p>
 
 **Politecnico di Milano – Space Propulsion A.Y. 2025/26**  
