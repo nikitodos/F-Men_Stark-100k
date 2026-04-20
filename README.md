@@ -1,7 +1,7 @@
 # STARK-100k – Solid Rocket Motor Design & Analysis Suite
 
 <p align="center">
-  <img src="Project_Logo.png" alt="Project_Logo.png" width="250"/>
+  <img src="Logo_Project.png" alt="Project Logo" width="250"/>
 </p>
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2025b%2B-blue.svg)](https://www.mathworks.com/products/matlab.html)
