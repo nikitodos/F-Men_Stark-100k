@@ -4,12 +4,11 @@
 
 <p align="center">
 <img src="Logo_Project.png" alt="Project Logo" width="250"/>
+</p>
 
 **Politecnico di Milano – Space Propulsion A.Y. 2025/26**  
 *Team F-Men: Days of Future Blast*  
 D’Aloisio · Gattone · Pacheco · Rossi · Tempesta
-
-</p>
 
 ---
 
