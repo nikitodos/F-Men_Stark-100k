@@ -1,7 +1,7 @@
 
 # STARK-100k – Solid Rocket Motor Design & Analysis Suite
 
-[![MATLAB](https://img.shields.io/badge/MATLAB-R2023b%2B-blue.svg)](https://www.mathworks.com/products/matlab.html)
+[![MATLAB](https://img.shields.io/badge/MATLAB-R2025b%2B-blue.svg)](https://www.mathworks.com/products/matlab.html)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **Politecnico di Milano – Space Propulsion A.Y. 2025/26**  
