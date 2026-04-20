@@ -68,7 +68,7 @@ STARK-100k-SRM/
 
 ### Prerequisites
 
-- MATLAB R2023b or later (older versions may work, but not tested)
+- MATLAB R2025b or later (older versions may work, but not tested)
 - No additional toolboxes required – all code uses base MATLAB functions.
 - (Optional) The Utopia font for report‑style figures – otherwise MATLAB defaults are used.
 
