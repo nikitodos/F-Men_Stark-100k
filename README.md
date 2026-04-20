@@ -130,7 +130,7 @@ Typical execution time is 1–2 minutes (depending on Monte Carlo settings).
 
 ## License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+This repository and all associated content, including but not limited to text, figures, tables, diagrams, algorithms, and technical data, are the intellectual property of the Design Team.  Each section of this work is the intellectual property of its respective lead author(s), with contributions from team members as specified in the Authorship Declaration included in the final report. For permission requests or inquiries regarding commercial use, please contact the Team members.
 
 ---
 
