@@ -1,5 +1,8 @@
-
 # STARK-100k – Solid Rocket Motor Design & Analysis Suite
+
+<p align="center">
+  <img src="logo.png" alt="STARK-100k Logo" width="250"/>
+</p>
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2025b%2B-blue.svg)](https://www.mathworks.com/products/matlab.html)
 
@@ -58,7 +61,8 @@ STARK-100k-SRM/
 ├── viscosity_water.m              # water dynamic viscosity
 ├── conductivity_water.m           # water thermal conductivity
 ├── cp_water.m                     # water specific heat
-└── README.md                      # this file
+├── README.md                      # this file
+└── FMen_DAloisio_et_al_2026.pdf   # full project report (detailed methodology & results)
 ```
 
 ---
