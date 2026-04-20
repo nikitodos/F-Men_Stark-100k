@@ -32,7 +32,7 @@ This repository contains a complete MATLAB toolchain for the **parametric design
 - **Uncertainty quantification** (Monte Carlo with log‑normal a and normal n)
 - **2D axisymmetric renderings** of the motor section
 
-All analyses are integrated into a single main script (`main.m`) that produces **12 figures** and a detailed console summary.
+All analyses are integrated into a single main script (`main.m`) that produces several figures and a detailed console summary.
 
 ---
 
@@ -82,13 +82,13 @@ STARK-100k-SRM/
 3. Run `main.m`.
 
 The script will:
-- Load the experimental burning‑rate data and fit the Vieille law.
+- Load the experimental burning‑rate data and fit the Vieille-Saint Robert's (VSR) law.
 - Evaluate six AP/HTPB compositions and select the best performer (by a weighted score).
 - Generate the grain geometry, run the firing simulation, and perform the nozzle thermal analysis.
 - Size the cooling jacket, the water tank, the pressurant N₂ tank, and the feed pipe (ASME B31.3).
 - Produce all figures and print a detailed summary in the command window.
 
-Typical execution time is 1–2 minutes (depending on Monte Carlo settings).
+Typical execution time is 10 minutes (with Monte Carlo sampling number N = 2000).
 
 ### Customisation
 
@@ -131,7 +131,7 @@ Typical execution time is 1–2 minutes (depending on Monte Carlo settings).
 
 ## License
 
-This repository and all associated content, including but not limited to text, figures, tables, diagrams, algorithms, and technical data, are the intellectual property of the Design Team.  Each section of this work is the intellectual property of its respective lead author(s), with contributions from team members as specified in the Authorship Declaration included in the final report. For permission requests or inquiries regarding commercial use, please contact the Team members.
+This repository and all associated content, including but not limited to text, figures, tables, diagrams, algorithms, and technical data, are the intellectual property of the Design Team. Each section of this work is the intellectual property of its respective lead author(s), with contributions from team members as specified in the Authorship Declaration included in the final report. For permission requests or inquiries regarding commercial use, please contact the Team members.
 
 ---
 
