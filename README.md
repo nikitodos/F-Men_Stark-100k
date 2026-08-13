@@ -1,5 +1,9 @@
 # STARK-100k — Solid Rocket Motor Design & Analysis
 
+<p align="center">
+  <img src="Logo_Project.png" width="600">
+</p>
+
 Politecnico di Milano · Space Propulsion · A.Y. 2025/26  
 **F-Men: Days of Future Blast**
 
